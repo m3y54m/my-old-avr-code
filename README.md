@@ -1,2 +1,2 @@
-# my-first-avr-code
-My old basic programs written for AVR microcontrollers
+# My old basic programs for AVR microcontrollers
+
