@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "I2C_Master", "I2C_Master\I2C_Master.cppproj", "{ED492211-5C7A-4FE9-9C53-4FB1C33A629A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED492211-5C7A-4FE9-9C53-4FB1C33A629A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{ED492211-5C7A-4FE9-9C53-4FB1C33A629A}.Debug|AVR.Build.0 = Debug|AVR
+		{ED492211-5C7A-4FE9-9C53-4FB1C33A629A}.Release|AVR.ActiveCfg = Release|AVR
+		{ED492211-5C7A-4FE9-9C53-4FB1C33A629A}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

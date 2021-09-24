@@ -1,0 +1,7 @@
+VERSION:3 SOURCE_TIMESTAMP:45038078
+NODE:I LEVEL:0 LINE:24 "C:\cvavreval\inc\mega32.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavreval\inc\stdio.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavreval\inc\delay.h"
+NODE:I LEVEL:0 LINE:32 "C:\cvavreval\inc\lcd.h"
+NODE:V LEVEL:0 LINE:35 "c -> R2.0"
+NODE:F LEVEL:0 LINE:37 "main(void)"

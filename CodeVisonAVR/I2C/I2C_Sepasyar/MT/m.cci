@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:450C83E5
+NODE:I LEVEL:0 LINE:24 "D:\cvavr\inc\mega32a.h"
+NODE:I LEVEL:0 LINE:25 "D:\cvavr\inc\alcd.h"
+NODE:I LEVEL:0 LINE:26 "D:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:27 "D:\cvavr\inc\delay.h"
+NODE:M LEVEL:0 LINE:29 "XTAL"
+NODE:M LEVEL:0 LINE:32 "address"
+NODE:V LEVEL:0 LINE:33 "data -> R5"
+NODE:F LEVEL:0 LINE:35 "twi_error(unsigned char status,unsigned char f)"
+NODE:V LEVEL:0 LINE:40 "c -> R6,R7"
+NODE:F LEVEL:0 LINE:41 "twi_interrupt(void)"
+NODE:F LEVEL:0 LINE:46 "main(void)"

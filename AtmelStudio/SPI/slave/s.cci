@@ -1,0 +1,7 @@
+VERSION:3 SOURCE_TIMESTAMP:45249606
+NODE:I LEVEL:0 LINE:24 "D:\cvavr\inc\mega32a.h"
+NODE:I LEVEL:0 LINE:27 "D:\cvavr\inc\alcd.h"
+NODE:I LEVEL:0 LINE:28 "D:\cvavr\inc\stdio.h"
+NODE:V LEVEL:0 LINE:31 "data -> R5"
+NODE:F LEVEL:0 LINE:34 "spi_isr(void)"
+NODE:F LEVEL:0 LINE:41 "main(void)"

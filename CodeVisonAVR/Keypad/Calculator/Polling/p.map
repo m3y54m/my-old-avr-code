@@ -1,0 +1,27 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+Keys                                                              0260h       16
+x                                                                 0270h        1
+y                                                                 0271h        1
+step                                                              0272h        1
+s                                                                 0273h        2
+l                                                                 0275h        1
+num1                                                              0276h        4
+num2                                                              027Ah        2
+ans                                                               027Ch        4
+op                                                                0280h        1
+_base_y                                                           0281h        4
+p                                                                 0285h        2
+_seed                                                             0287h        4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+_lcd_x                                                            R5           1
+_lcd_y                                                            R4           1
+_lcd_maxx                                                         R7           1

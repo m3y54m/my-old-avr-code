@@ -1,0 +1,626 @@
+Register Address (HEX):0
+  Register Value (HEX):85
+
+Register Address (HEX):1
+  Register Value (HEX):7F
+
+Register Address (HEX):2
+  Register Value (HEX):81
+
+Register Address (HEX):3
+  Register Value (HEX):DE
+
+Register Address (HEX):4
+  Register Value (HEX):FD
+
+Register Address (HEX):5
+  Register Value (HEX):D1
+
+Register Address (HEX):6
+  Register Value (HEX):F3
+
+Register Address (HEX):7
+  Register Value (HEX):B4
+
+Register Address (HEX):8
+  Register Value (HEX):7
+
+Register Address (HEX):9
+  Register Value (HEX):87
+
+Register Address (HEX):A
+  Register Value (HEX):5
+
+Register Address (HEX):B
+  Register Value (HEX):36
+
+Register Address (HEX):C
+  Register Value (HEX):28
+
+Register Address (HEX):D
+  Register Value (HEX):6E
+
+Register Address (HEX):E
+  Register Value (HEX):6E
+
+Register Address (HEX):F
+  Register Value (HEX):94
+
+Register Address (HEX):10
+  Register Value (HEX):50
+
+Register Address (HEX):11
+  Register Value (HEX):0
+
+Register Address (HEX):12
+  Register Value (HEX):0
+
+Register Address (HEX):13
+  Register Value (HEX):0
+
+Register Address (HEX):14
+  Register Value (HEX):0
+
+Register Address (HEX):15
+  Register Value (HEX):0
+
+Register Address (HEX):16
+  Register Value (HEX):0
+
+Register Address (HEX):17
+  Register Value (HEX):0
+
+Register Address (HEX):18
+  Register Value (HEX):0
+
+Register Address (HEX):19
+  Register Value (HEX):7
+
+Register Address (HEX):1A
+  Register Value (HEX):0
+
+Register Address (HEX):1B
+  Register Value (HEX):8
+
+Register Address (HEX):1C
+  Register Value (HEX):0
+
+Register Address (HEX):1D
+  Register Value (HEX):0
+
+Register Address (HEX):1E
+  Register Value (HEX):0
+
+Register Address (HEX):1F
+  Register Value (HEX):0
+
+Register Address (HEX):20
+  Register Value (HEX):0
+
+Register Address (HEX):21
+  Register Value (HEX):0
+
+Register Address (HEX):22
+  Register Value (HEX):0
+
+Register Address (HEX):23
+  Register Value (HEX):0
+
+Register Address (HEX):24
+  Register Value (HEX):0
+
+Register Address (HEX):25
+  Register Value (HEX):0
+
+Register Address (HEX):26
+  Register Value (HEX):0
+
+Register Address (HEX):27
+  Register Value (HEX):0
+
+Register Address (HEX):28
+  Register Value (HEX):0
+
+Register Address (HEX):29
+  Register Value (HEX):0
+
+Register Address (HEX):2A
+  Register Value (HEX):0
+
+Register Address (HEX):2B
+  Register Value (HEX):0
+
+Register Address (HEX):2C
+  Register Value (HEX):0
+
+Register Address (HEX):2D
+  Register Value (HEX):0
+
+Register Address (HEX):2E
+  Register Value (HEX):0
+
+Register Address (HEX):2F
+  Register Value (HEX):0
+
+Register Address (HEX):30
+  Register Value (HEX):0
+
+Register Address (HEX):31
+  Register Value (HEX):0
+
+Register Address (HEX):32
+  Register Value (HEX):0
+
+Register Address (HEX):33
+  Register Value (HEX):0
+
+Register Address (HEX):34
+  Register Value (HEX):0
+
+Register Address (HEX):35
+  Register Value (HEX):0
+
+Register Address (HEX):36
+  Register Value (HEX):0
+
+Register Address (HEX):37
+  Register Value (HEX):0
+
+Register Address (HEX):38
+  Register Value (HEX):0
+
+Register Address (HEX):39
+  Register Value (HEX):0
+
+Register Address (HEX):3A
+  Register Value (HEX):1
+
+Register Address (HEX):3B
+  Register Value (HEX):FE
+
+Register Address (HEX):3C
+  Register Value (HEX):C8
+
+Register Address (HEX):3D
+  Register Value (HEX):0
+
+Register Address (HEX):3E
+  Register Value (HEX):54
+
+Register Address (HEX):3F
+  Register Value (HEX):3C
+
+Register Address (HEX):40
+  Register Value (HEX):94
+
+Register Address (HEX):41
+  Register Value (HEX):F8
+
+Register Address (HEX):42
+  Register Value (HEX):80
+
+Register Address (HEX):43
+  Register Value (HEX):FF
+
+Register Address (HEX):44
+  Register Value (HEX):A7
+
+Register Address (HEX):45
+  Register Value (HEX):0
+
+Register Address (HEX):46
+  Register Value (HEX):40
+
+Register Address (HEX):47
+  Register Value (HEX):0
+
+Register Address (HEX):48
+  Register Value (HEX):B
+
+Register Address (HEX):49
+  Register Value (HEX):0
+
+Register Address (HEX):4A
+  Register Value (HEX):0
+
+Register Address (HEX):4B
+  Register Value (HEX):0
+
+Register Address (HEX):4C
+  Register Value (HEX):0
+
+Register Address (HEX):4D
+  Register Value (HEX):0
+
+Register Address (HEX):4E
+  Register Value (HEX):0
+
+Register Address (HEX):4F
+  Register Value (HEX):0
+
+Register Address (HEX):50
+  Register Value (HEX):0
+
+Register Address (HEX):51
+  Register Value (HEX):0
+
+Register Address (HEX):52
+  Register Value (HEX):0
+
+Register Address (HEX):53
+  Register Value (HEX):0
+
+Register Address (HEX):54
+  Register Value (HEX):0
+
+Register Address (HEX):55
+  Register Value (HEX):0
+
+Register Address (HEX):56
+  Register Value (HEX):0
+
+Register Address (HEX):57
+  Register Value (HEX):0
+
+Register Address (HEX):58
+  Register Value (HEX):0
+
+Register Address (HEX):59
+  Register Value (HEX):0
+
+Register Address (HEX):5A
+  Register Value (HEX):0
+
+Register Address (HEX):5B
+  Register Value (HEX):0
+
+Register Address (HEX):5C
+  Register Value (HEX):0
+
+Register Address (HEX):5D
+  Register Value (HEX):0
+
+Register Address (HEX):5E
+  Register Value (HEX):0
+
+Register Address (HEX):5F
+  Register Value (HEX):0
+
+Register Address (HEX):60
+  Register Value (HEX):0
+
+Register Address (HEX):61
+  Register Value (HEX):0
+
+Register Address (HEX):62
+  Register Value (HEX):0
+
+Register Address (HEX):63
+  Register Value (HEX):0
+
+Register Address (HEX):64
+  Register Value (HEX):0
+
+Register Address (HEX):65
+  Register Value (HEX):0
+
+Register Address (HEX):66
+  Register Value (HEX):0
+
+Register Address (HEX):67
+  Register Value (HEX):0
+
+Register Address (HEX):68
+  Register Value (HEX):0
+
+Register Address (HEX):69
+  Register Value (HEX):0
+
+Register Address (HEX):6A
+  Register Value (HEX):0
+
+Register Address (HEX):6B
+  Register Value (HEX):2
+
+Register Address (HEX):6C
+  Register Value (HEX):0
+
+Register Address (HEX):6D
+  Register Value (HEX):0
+
+Register Address (HEX):6E
+  Register Value (HEX):13
+
+Register Address (HEX):6F
+  Register Value (HEX):4
+
+Register Address (HEX):70
+  Register Value (HEX):0
+
+Register Address (HEX):71
+  Register Value (HEX):0
+
+Register Address (HEX):72
+  Register Value (HEX):0
+
+Register Address (HEX):73
+  Register Value (HEX):0
+
+Register Address (HEX):74
+  Register Value (HEX):0
+
+Register Address (HEX):75
+  Register Value (HEX):68
+
+Register Address (HEX):76
+  Register Value (HEX):0
+
+Register Address (HEX):77
+  Register Value (HEX):0
+
+Register Address (HEX):78
+  Register Value (HEX):0
+
+Register Address (HEX):79
+  Register Value (HEX):0
+
+Register Address (HEX):7A
+  Register Value (HEX):0
+
+Register Address (HEX):7B
+  Register Value (HEX):0
+
+Register Address (HEX):7C
+  Register Value (HEX):0
+
+Register Address (HEX):7D
+  Register Value (HEX):0
+
+Register Address (HEX):7E
+  Register Value (HEX):0
+
+Register Address (HEX):7F
+  Register Value (HEX):0
+
+Register Address (HEX):80
+  Register Value (HEX):85
+
+Register Address (HEX):81
+  Register Value (HEX):7F
+
+Register Address (HEX):82
+  Register Value (HEX):81
+
+Register Address (HEX):83
+  Register Value (HEX):DE
+
+Register Address (HEX):84
+  Register Value (HEX):FD
+
+Register Address (HEX):85
+  Register Value (HEX):D1
+
+Register Address (HEX):86
+  Register Value (HEX):F3
+
+Register Address (HEX):87
+  Register Value (HEX):B4
+
+Register Address (HEX):88
+  Register Value (HEX):7
+
+Register Address (HEX):89
+  Register Value (HEX):87
+
+Register Address (HEX):8A
+  Register Value (HEX):5
+
+Register Address (HEX):8B
+  Register Value (HEX):36
+
+Register Address (HEX):8C
+  Register Value (HEX):28
+
+Register Address (HEX):8D
+  Register Value (HEX):6E
+
+Register Address (HEX):8E
+  Register Value (HEX):6E
+
+Register Address (HEX):8F
+  Register Value (HEX):94
+
+Register Address (HEX):90
+  Register Value (HEX):50
+
+Register Address (HEX):91
+  Register Value (HEX):0
+
+Register Address (HEX):92
+  Register Value (HEX):0
+
+Register Address (HEX):93
+  Register Value (HEX):0
+
+Register Address (HEX):94
+  Register Value (HEX):0
+
+Register Address (HEX):95
+  Register Value (HEX):0
+
+Register Address (HEX):96
+  Register Value (HEX):0
+
+Register Additer Address (HEX):C6
+  Register Value (HEX):30
+
+Register Address (HEX):C7
+  Register Value (HEX):0
+
+Register Address (HEX):C8
+  Register Value (HEX):19
+
+Register Address (HEX):C9
+  Register Value (HEX):0
+
+Register Address (HEX):CA
+  Register Value (HEX):0
+
+Register Address (HEX):CB
+  Register Value (HEX):0
+
+Register Address (HEX):CC
+  Register Value (HEX):0
+
+Register Address (HEX):CD
+  Register Value (HEX):0
+
+Register Address (HEX):CE
+  Register Value (HEX):0
+
+Register Address (HEX):CF
+  Register Value (HEX):0
+
+Register Address (HEX):D0
+  Register Value (HEX):0
+
+Register Address (HEX):D1
+  Register Value (HEX):0
+
+Register Address (HEX):D2
+  Register Value (HEX):0
+
+Register Address (HEX):D3
+  Register Value (HEX):0
+
+Register Address (HEX):D4
+  Register Value (HEX):0
+
+Register Address (HEX):D5
+  Register Value (HEX):0
+
+Register Address (HEX):D6
+  Register Value (HEX):0
+
+Register Address (HEX):D7
+  Register Value (HEX):0
+
+Register Address (HEX):D8
+  Register Value (HEX):0
+
+Register Address (HEX):D9
+  Register Value (HEX):0
+
+Register Address (HEX):DA
+  Register Value (HEX):0
+
+Register Address (HEX):DB
+  Register Value (HEX):0
+
+Register Address (HEX):DC
+  Register Value (HEX):0
+
+Register Address (HEX):DD
+  Register Value (HEX):0
+
+Register Address (HEX):DE
+  Register Value (HEX):0
+
+Register Address (HEX):DF
+  Register Value (HEX):0
+
+Register Address (HEX):E0
+  Register Value (HEX):0
+
+Register Address (HEX):E1
+  Register Value (HEX):0
+
+Register Address (HEX):E2
+  Register Value (HEX):0
+
+Register Address (HEX):E3
+  Register Value (HEX):0
+
+Register Address (HEX):E4
+  Register Value (HEX):0
+
+Register Address (HEX):E5
+  Register Value (HEX):0
+
+Register Address (HEX):E6
+  Register Value (HEX):0
+
+Register Address (HEX):E7
+  Register Value (HEX):0
+
+Register Address (HEX):E8
+  Register Value (HEX):0
+
+Register Address (HEX):E9
+  Register Value (HEX):0
+
+Register Address (HEX):EA
+  Register Value (HEX):0
+
+Register Address (HEX):EB
+  Register Value (HEX):2
+
+Register Address (HEX):EC
+  Register Value (HEX):0
+
+Register Address (HEX):ED
+  Register Value (HEX):0
+
+Register Address (HEX):EE
+  Register Value (HEX):19
+
+Register Address (HEX):EF
+  Register Value (HEX):6F
+
+Register Address (HEX):F0
+  Register Value (HEX):0
+
+Register Address (HEX):F1
+  Register Value (HEX):0
+
+Register Address (HEX):F2
+  Register Value (HEX):0
+
+Register Address (HEX):F3
+  Register Value (HEX):0
+
+Register Address (HEX):F4
+  Register Value (HEX):0
+
+Register Address (HEX):F5
+  Register Value (HEX):68
+
+Register Address (HEX):F6
+  Register Value (HEX):0
+
+Register Address (HEX):F7
+  Register Value (HEX):0
+
+Register Address (HEX):F8
+  Register Value (HEX):0
+
+Register Address (HEX):F9
+  Register Value (HEX):0
+
+Register Address (HEX):FA
+  Register Value (HEX):0
+
+Register Address (HEX):FB
+  Register Value (HEX):0
+
+Register Address (HEX):FC
+  Register Value (HEX):0
+
+Register Address (HEX):FD
+  Register Value (HEX):0
+
+Register Address (HEX):FE
+  Register Value (HEX):0
+
+Register Address (HEX):FF
+  Register Value (HEX):0

@@ -1,0 +1,46 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+twi_rx_buffer                                                                     0x0260       8
+twi_tx_buffer                                                                     0x0268       8
+_base_y                                                                           0x0270       4
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+twi_rx_count                                                                      R5           1
+twi_rx_index                                                                      R4           1
+twi_tx_count                                                                      R7           1
+twi_tx_index                                                                      R6           1
+twi_slave_addr                                                                    R9           1
+twi_mode                                                                          R2.0      1bit
+twi_rx_complete                                                                   R2.1      1bit
+twi_tx_complete                                                                   R2.2      1bit
+twi_error                                                                         R2.3      1bit
+_lcd_x                                                                            R8           1
+_lcd_y                                                                            R11          1
+_lcd_maxx                                                                         R10          1
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+twi_init                                                                          0x00076      5
+twi_exchange                                                                      0x0007B     61
+twi_interrupt                                                                     0x000B8    145
+main                                                                              0x00149    101
+_lcd_write_nibble_G100                                                            0x001AE     20
+_lcd_write_data                                                                   0x001C2     12
+lcd_gotoxy                                                                        0x001CE     13
+lcd_clear                                                                         0x001DB     12
+lcd_putchar                                                                       0x001E7     21
+lcd_puts                                                                          0x001FC     17
+lcd_init                                                                          0x0020D     46
+put_buff_G101                                                                     0x0023B     64
+_print_G101                                                                       0x0027B    308
+sprintf                                                                           0x003AF     52
+strlen                                                                            0x003E3     12
+strlenf                                                                           0x003EF     13

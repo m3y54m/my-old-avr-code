@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "PID_Motor_Speed", "PID_Motor_Speed\PID_Motor_Speed.cppproj", "{6297D661-1025-48B4-9929-6343447869CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6297D661-1025-48B4-9929-6343447869CF}.Debug|AVR.ActiveCfg = Debug|AVR
+		{6297D661-1025-48B4-9929-6343447869CF}.Debug|AVR.Build.0 = Debug|AVR
+		{6297D661-1025-48B4-9929-6343447869CF}.Release|AVR.ActiveCfg = Release|AVR
+		{6297D661-1025-48B4-9929-6343447869CF}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

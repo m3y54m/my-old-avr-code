@@ -1,0 +1,13 @@
+F:\PROJECTS\VS PROJECTS\Projects\Oscilloscope\Oscilloscope\bin\Release\Oscilloscope.exe.config
+F:\PROJECTS\VS PROJECTS\Projects\Oscilloscope\Oscilloscope\bin\Release\Oscilloscope.exe.manifest
+F:\PROJECTS\VS PROJECTS\Projects\Oscilloscope\Oscilloscope\bin\Release\Oscilloscope.application
+F:\PROJECTS\VS PROJECTS\Projects\Oscilloscope\Oscilloscope\bin\Release\Oscilloscope.exe
+F:\PROJECTS\VS PROJECTS\Projects\Oscilloscope\Oscilloscope\bin\Release\Oscilloscope.pdb
+F:\PROJECTS\VS PROJECTS\Projects\Oscilloscope\Oscilloscope\obj\Release\Oscilloscope.Form1.resources
+F:\PROJECTS\VS PROJECTS\Projects\Oscilloscope\Oscilloscope\obj\Release\Oscilloscope.Properties.Resources.resources
+F:\PROJECTS\VS PROJECTS\Projects\Oscilloscope\Oscilloscope\obj\Release\Oscilloscope.csproj.GenerateResource.Cache
+F:\PROJECTS\VS PROJECTS\Projects\Oscilloscope\Oscilloscope\obj\Release\Oscilloscope.exe.manifest
+F:\PROJECTS\VS PROJECTS\Projects\Oscilloscope\Oscilloscope\obj\Release\Oscilloscope.application
+F:\PROJECTS\VS PROJECTS\Projects\Oscilloscope\Oscilloscope\obj\Release\Oscilloscope.exe
+F:\PROJECTS\VS PROJECTS\Projects\Oscilloscope\Oscilloscope\obj\Release\Oscilloscope.pdb
+F:\PROJECTS\VS PROJECTS\Projects\Oscilloscope\Oscilloscope\obj\Release\Oscilloscope.csprojResolveAssemblyReference.cache

@@ -1,0 +1,27 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+rx_buffer                                                         0260h        8
+tx_buffer                                                         0268h        8
+_base_y                                                           0270h        4
+_lcd_maxx                                                         0274h        1
+p                                                                 0275h        2
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+rx_wr_index                                                       R5           1
+rx_rd_index                                                       R4           1
+rx_counter                                                        R7           1
+twelveCount                                                       R6           1
+roundCount                                                        R9           1
+rx_buffer_overflow                                                R2.0      1bit
+tx_wr_index                                                       R8           1
+tx_rd_index                                                       R11          1
+tx_counter                                                        R10          1
+_lcd_x                                                            R13          1
+_lcd_y                                                            R12          1
